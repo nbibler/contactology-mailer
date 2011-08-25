@@ -1,5 +1,3 @@
 module Contactology
-  class Mailer < ActionMailer::Base
-    VERSION = '0.0.4'
-  end
+  MAILER_VERSION = '0.0.4'
 end

@@ -4,7 +4,7 @@ require "contactology-mailer/version"
 
 Gem::Specification.new do |s|
   s.name        = "contactology-mailer"
-  s.version     = Contactology::Mailer::VERSION
+  s.version     = Contactology::MAILER_VERSION
   s.authors     = ["Nathaniel Bibler"]
   s.email       = ["git@nathanielbibler.com"]
   s.homepage    = "https://github.com/nbibler/contactology-mailer"

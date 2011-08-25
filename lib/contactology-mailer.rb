@@ -1,4 +1,6 @@
-require "contactology-mailer/version"
+require 'contactology'
+require 'action_mailer'
+require 'contactology-mailer/version'
 
 module Contactology
   class Mailer < ActionMailer::Base
